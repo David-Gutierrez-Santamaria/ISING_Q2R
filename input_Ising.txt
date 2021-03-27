@@ -1,0 +1,10 @@
+128   # Box size
+1     # J (spin interaction)
+0.0   # mu*h (external field)
+1.0   # Initial temperature
+3.0   # Final temperature
+21    # Numb. temperatures
+1000  # Nmc (number of Montecarlo steps)
+500   # Nme (Numb. measures)
+0     # flag (Initial state:  0 = random, 1 = fijo (valor))
+1     # Initial state valu

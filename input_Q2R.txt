@@ -1,0 +1,4 @@
+128        # Box size
+1         # J (spin interaction)
+1000      # Nme (Numb. measures)
+50        # % of spins up for "motion_Q2R()" 
